@@ -145,6 +145,7 @@ Things to look for if your editor has implementations for them. They will make y
 
 - [Surge](https://surge.sh/): Simple, single-command web publishing. Publish HTML, CSS, and JS for free, without leaving the command line.
 
+- [Google Search Console](https://search.google.com/search-console/about): A free SEO tool for website building. 
 ---
 
 ## General Development Tools
